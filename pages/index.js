@@ -1,7 +1,12 @@
 import React from 'react';
+import Layout from '../components/generics/layout/layout';
 
 const IndexPage = () => {
-  return <div>Welcome to Star Wars Wiki</div>;
+  return (
+    <Layout>
+      <div>Welcome to Star Wars Wiki</div>
+    </Layout>
+  );
 };
 
 export default IndexPage;
