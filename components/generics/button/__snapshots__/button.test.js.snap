@@ -4,7 +4,7 @@ exports[`Button tests Render tests should match to snapshot 1`] = `
 <body>
   <div>
     <button
-      class="css-jdws0p-btnBase-btnPrimary-Button"
+      class="css-1x9g7k4-btnBase-btnPrimary-Button"
     >
       Some button
     </button>
