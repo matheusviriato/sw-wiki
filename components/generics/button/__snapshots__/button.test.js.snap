@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button tests Render tests should match to snapshot 1`] = `
+<body>
+  <div>
+    <button
+      class="css-jdws0p-btnBase-btnPrimary-Button"
+    >
+      Some button
+    </button>
+  </div>
+</body>
+`;

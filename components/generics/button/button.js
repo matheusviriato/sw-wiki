@@ -36,14 +36,14 @@ Button.propTypes = {
 };
 
 Button.defaultProps = {
-  id: '',
+  id: undefined,
   outline: false,
   customCss: {},
   text: '',
   disabled: false,
   type: undefined,
   onClick: () => {},
-  restattributes: {},
+  restattributes: undefined,
 };
 
 export default Button;
