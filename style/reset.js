@@ -4,11 +4,13 @@ export const reset = css`
   html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
+    height: 100%;
   }
 
   body {
     margin: 0;
     font-family: Roboto, sans-serif;
+    min-height: 100%;
   }
 
   main {
