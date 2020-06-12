@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading tests Render tests should match to snapshot 1`] = `
+<body>
+  <div>
+    <section
+      class="css-1mg3v35-loadingWrapper"
+    >
+      <img
+        class="css-1yavjhk-loadingImg"
+        src="/img/republic_icon.png"
+      />
+    </section>
+  </div>
+</body>
+`;
